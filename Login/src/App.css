@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Helvetica;
+    box-sizing: border-box;
+    text-shadow: #000 1px 1px;
+    font-family: Helvetica;
+    color: #fff;
+}
+
+.App{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-width: 100vh;
+    background-image: url("assets/galo.png");
+    background-size: calc(90%);
+    background-position: center;
+}
+
+
+
+
+
